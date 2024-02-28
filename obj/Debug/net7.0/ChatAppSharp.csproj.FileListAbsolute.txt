@@ -1,0 +1,15 @@
+/Users/kalliegarzon/Documents/ChatAppSharp/bin/Debug/net7.0/ChatAppSharp
+/Users/kalliegarzon/Documents/ChatAppSharp/bin/Debug/net7.0/ChatAppSharp.deps.json
+/Users/kalliegarzon/Documents/ChatAppSharp/bin/Debug/net7.0/ChatAppSharp.runtimeconfig.json
+/Users/kalliegarzon/Documents/ChatAppSharp/bin/Debug/net7.0/ChatAppSharp.dll
+/Users/kalliegarzon/Documents/ChatAppSharp/bin/Debug/net7.0/ChatAppSharp.pdb
+/Users/kalliegarzon/Documents/ChatAppSharp/obj/Debug/net7.0/ChatAppSharp.csproj.AssemblyReference.cache
+/Users/kalliegarzon/Documents/ChatAppSharp/obj/Debug/net7.0/ChatAppSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalliegarzon/Documents/ChatAppSharp/obj/Debug/net7.0/ChatAppSharp.AssemblyInfoInputs.cache
+/Users/kalliegarzon/Documents/ChatAppSharp/obj/Debug/net7.0/ChatAppSharp.AssemblyInfo.cs
+/Users/kalliegarzon/Documents/ChatAppSharp/obj/Debug/net7.0/ChatAppSharp.csproj.CoreCompileInputs.cache
+/Users/kalliegarzon/Documents/ChatAppSharp/obj/Debug/net7.0/ChatAppSharp.dll
+/Users/kalliegarzon/Documents/ChatAppSharp/obj/Debug/net7.0/refint/ChatAppSharp.dll
+/Users/kalliegarzon/Documents/ChatAppSharp/obj/Debug/net7.0/ChatAppSharp.pdb
+/Users/kalliegarzon/Documents/ChatAppSharp/obj/Debug/net7.0/ChatAppSharp.genruntimeconfig.cache
+/Users/kalliegarzon/Documents/ChatAppSharp/obj/Debug/net7.0/ref/ChatAppSharp.dll
